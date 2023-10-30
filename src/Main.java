@@ -70,6 +70,7 @@ public class Main {
             else {
                 System.out.println("Число three больше всех.");
             }
+
         }
     }
 }
